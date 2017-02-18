@@ -9,7 +9,7 @@ use common\models\User;
 /* @var $form yii\widgets\ActiveForm */
 ?>
 
-<div class="user-form">
+<div class="user-form">daniel
 
     <?php $form = ActiveForm::begin(); ?>
 
